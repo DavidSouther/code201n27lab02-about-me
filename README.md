@@ -1,2 +1,4 @@
-# code201n27lab02-about-me
-201n27 About Me Demo
+# 201n27 About Me Demo
+
+This project is a class demo for an about me page, as well as setting up a code
+201 project.
