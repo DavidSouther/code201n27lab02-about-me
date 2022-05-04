@@ -8,6 +8,7 @@ body {
 
 header,
 footer {
+  margin-top: 37px;
   padding-top: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -22,6 +23,7 @@ main {
   width: 450px;
   border-top: solid;
   border-bottom: solid;
+  text-align: justify;
 }
 
 p {
